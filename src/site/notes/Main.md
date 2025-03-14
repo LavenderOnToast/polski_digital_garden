@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/main/","tags":["gardenEntry"]}
 ---
 
-
+# Baza Notatek
 ----
-yu7ytugytghfyugty7u8i7y8ui8u79ioy90
-kjhuijuiyhiuyuhijuiyhui8oj
-ihuyguihyuyuy7i8uigh
+Hej, udostępniam wam tutaj notatki, na razie dostępne przedmioty:
+1. [[Spis Treści \| Język Polski]]
