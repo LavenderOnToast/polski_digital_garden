@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/main/","tags":["Reszta","gardenEntry"]}
 ---
 
 # Baza Notatek

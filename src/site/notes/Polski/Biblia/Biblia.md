@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/polski/biblia/biblia/"}
+{"dg-publish":true,"permalink":"/polski/biblia/biblia/","tags":["Dzial"]}
 ---
 
