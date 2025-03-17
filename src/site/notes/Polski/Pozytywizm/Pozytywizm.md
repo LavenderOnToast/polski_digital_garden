@@ -7,16 +7,16 @@
 
 ## Spis Treści:
 ---
-- [[Polski/Pozytywizm/Pozytywizm#Spis Treści\|#Spis Treści]]
-- [[Polski/Pozytywizm/Pozytywizm#Wstęp Do Epoki\|#Wstęp Do Epoki]]
-- [[Polski/Pozytywizm/Pozytywizm#Cechy Epoki\|#Cechy Epoki]]
-- [[Polski/Pozytywizm/Pozytywizm#Gatunki Literackie\|#Gatunki Literackie]]
-- [[Polski/Pozytywizm/Pozytywizm#Charakterystyczne Środki Literackie\|#Charakterystyczne Środki Literackie]]
-- [[Polski/Pozytywizm/Pozytywizm#Filozofia\|#Filozofia]]
-- [[Polski/Pozytywizm/Pozytywizm#Nurty Artystyczne\|#Nurty Artystyczne]]
-- [[Polski/Pozytywizm/Pozytywizm#Najwybitniejsi Twórcy\|#Najwybitniejsi Twórcy]]
+- [[Polski/Pozytywizm/Pozytywizm#Spis Treści\|Spis Treści]]
+- [[Polski/Pozytywizm/Pozytywizm#Wstęp Do Epoki\|Wstęp Do Epoki]]
+- [[Polski/Pozytywizm/Pozytywizm#Cechy Epoki\|Cechy Epoki]]
+- [[Polski/Pozytywizm/Pozytywizm#Gatunki Literackie\|Gatunki Literackie]]
+- [[Polski/Pozytywizm/Pozytywizm#Charakterystyczne Środki Literackie\|Charakterystyczne Środki Literackie]]
+- [[Polski/Pozytywizm/Pozytywizm#Filozofia\|Filozofia]]
+- [[Polski/Pozytywizm/Pozytywizm#Nurty Artystyczne\|Nurty Artystyczne]]
+- [[Polski/Pozytywizm/Pozytywizm#Najwybitniejsi Twórcy\|Najwybitniejsi Twórcy]]
 - [[Polski/Pozytywizm/Pozytywizm#Ważne Utwory\|Ważne Utwory - tutaj znajdują się odnośniki do omówienia lektur]]
-- [[Polski/Pozytywizm/Pozytywizm#Tematy\|#Tematy]]
+- [[Polski/Pozytywizm/Pozytywizm#Tematy\|Tematy]]
 ## Wstęp Do Epoki:
 ---
 
