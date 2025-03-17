@@ -7,8 +7,8 @@
 
 # Spis Treści - Język Polski
 ---
-1. [[Antyk \| Antyk, IX w. p.n.e. – V w. (rok 476 – upadek Cesarstwa Zachodniorzymskiego]]
-2. [[ Biblia\| Biblia]]
+1.  [[Polski/Antyk/Antyk\|Antyk, IX w. p.n.e. – V w. (rok 476 – upadek Cesarstwa Zachodniorzymskiego]]
+2.  [[Polski/Biblia/Biblia\|Biblia]]
 3. [[Polski/Sredniowiecze/Sredniowiecze\| Średniowiecze, Europa: 476 - 1492 r., Polska: X-XV w.]]
 4. [[Polski/Renesans/Renesans\| Renesans, XV/XVI- koniec XVI w]]
 5. [[Polski/Barok/Barok\| Barok, Europa: XVI/XVII w. - koniec XVII/połowa XVIII w., Polska: XVII w. - połowa XVIII w.]]
