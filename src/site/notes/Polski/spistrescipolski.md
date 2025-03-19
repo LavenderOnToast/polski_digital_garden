@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/polski/spistrescipolski/","tags":["Reszta","przedmiot"]}
 ---
 
-### [[Main\|←Powrót]]
+### [[README\|←Powrót]]
 # JĘZYK POLSKI
 
 # Spis Treści - Język Polski
